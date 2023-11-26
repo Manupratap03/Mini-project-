@@ -181,12 +181,10 @@ body {
     padding: 0;
 }
 
-/* Improve section styling */
 section {
     padding: 50px 0;
 }
 
-/* Style the footer */
 footer {
     background-color: #333;
     color: white;
@@ -253,7 +251,6 @@ footer {
     margin-bottom: 10px;
 }
 
-/* Style the feedback and contact form */
 #feedback-section,
 #contact-section {
     background-color: #f2f2f2;
@@ -292,16 +289,15 @@ button[type="submit"] {
     color: #333;
 }
 
-/* Media Queries for Responsive Design */
 @media only screen and (min-width: 600px) {
-    /* Adjustments for larger screens */
+    
     #workout-form {
         max-width: 400px;
     }
 }
 
 @media only screen and (min-width: 768px) {
-    /* Adjustments for tablets */
+   
     #workout-form {
         max-width: 600px;
     }
@@ -312,7 +308,7 @@ button[type="submit"] {
 }
 
 @media only screen and (min-width: 992px) {
-    /* Adjustments for desktops */
+  
     #workout-form {
         max-width: 800px;
     }
@@ -503,12 +499,10 @@ body {
     padding: 0;
 }
 
-/* Improve section styling */
 section {
     padding: 50px 0;
 }
 
-/* Style the footer */
 footer {
     background-color: #333;
     color: white;
@@ -575,7 +569,6 @@ footer {
     margin-bottom: 10px;
 }
 
-/* Style the feedback and contact form */
 #feedback-section,
 #contact-section {
     background-color: #f2f2f2;
@@ -613,17 +606,15 @@ button[type="submit"] {
     text-decoration: none;
     color: #333;
 }
-
-/* Media Queries for Responsive Design */
 @media only screen and (min-width: 600px) {
-    /* Adjustments for larger screens */
+
     #workout-form {
         max-width: 400px;
     }
 }
 
 @media only screen and (min-width: 768px) {
-    /* Adjustments for tablets */
+
     #workout-form {
         max-width: 600px;
     }
@@ -634,7 +625,7 @@ button[type="submit"] {
 }
 
 @media only screen and (min-width: 992px) {
-    /* Adjustments for desktops */
+   
     #workout-form {
         max-width: 800px;
     }
